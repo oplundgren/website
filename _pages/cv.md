@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV [(pdf)](https://oplundgren.github.io/website/cv_eng.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
