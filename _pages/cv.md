@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [(pdf)](https://oplundgren.github.io/website/cv_eng.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+A pdf version is available [here](https://oplundgren.github.io/website/cv_eng.pdf).
 
 Education
 ======
