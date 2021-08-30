@@ -54,5 +54,5 @@ Skills
  * LaTeX (basic) 
  * R (basic) 
  * Wiki Markup (basic)
- * Inkscape (basic) 
+ * Inkscape (basic)
   
