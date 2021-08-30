@@ -11,7 +11,7 @@ redirect_from:
 Biography
 ======
 
-Welcome! I am a PhD student in General Linguistics at Lund University, where I also got my BA and my MA degrees. I have quite broad linguistic interests, which stem from an interest in language history and cultural history. Early on in my education, I took an interest in phonological variation, and I wrote my BA thesis in 2015 on retroflexion in Southern Swedish, a trait not normally found in these dialects, but which have been introduced in some urban accents due to Central Swedish influence. 
+Welcome! I am a PhD student in General Linguistics at Lund University, where I also got my BA and my MA degrees. I have quite broad linguistic interests, which stem from an interest in language history and cultural history, including historical/comparative linguistics, phonology and phonetics, sociolinguistics and contact linguistics. Early on in my education, I took an interest in phonological variation, and I wrote my BA thesis in 2015 on retroflexion in Southern Swedish, a trait not normally found in these dialects, but which have been introduced in some urban accents due to Central Swedish influence. 
 
 In 2017, I studied for one year at UC Berkeley where I took two courses in historical linguistics for Andrew Garrett, while working with supervised independent research on Zaparoan languages for Lev Michael. Inspired by this, I wrote my MA thesis on the Tupí–Guaraní languages Omagua, Kokama and Tupinambá, reconstructing their phonological history and the contact situation which gave rise to these changes. 
 
