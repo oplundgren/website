@@ -17,7 +17,7 @@ Education
 
 Publications
 ======
-* Lundgren, Olof. (2020). <i>A phonological reconstruction of Proto-Omagua—Kokama—Tupinambá</i>. Unpublished master’s thesis. [url](http://lup.lub.lu.se/student-papers/record/9007022)
+* Lundgren, Olof. (2020). <i>[A phonological reconstruction of Proto-Omagua—Kokama—Tupinambá](http://lup.lub.lu.se/student-papers/record/9007022)</i>. Unpublished master’s thesis.
 * Lundgren, Olof. (2015). <i>Retroflexion hos talare med tungrots-r i Skåne</i>. Unpublished bachelor’s thesis.
 
 Research
