@@ -36,12 +36,8 @@ Research
   
 Languages
 ======
-* Swedish (native)
-* English (C2)
-* French (B1)
-* German (basic)
-* Icelandic (basic)
-* Elfdalian (basic) 
+* Spoken: Swedish (native), English (C2), French (B1), Icelandic (intermediate), German (intermediate), Elfdalian (intermediate).
+* Studied (various levels of knowledge): Standard Arabic, Finnish, Lakota, Latin and Welsh.
 
 Skills
 ======
