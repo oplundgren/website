@@ -3,7 +3,7 @@ title: "A phonological reconstruction of Proto-Omagua--Kokama--Tupinambá"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt:
-date: 2020
+date: 2020-01-01
 venue: 
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Lundgren, Olof. (2020). &quot;A phonological reconstruction of Proto-Omagua--Kokama--Tupinambá.&quot; Master thesis.'
