@@ -33,28 +33,28 @@ div.desc {
 <body>
 
 <div class="gallery">
-  <a target="_blank" href="img_5terre.jpg">
+  <a target="_blank" href="Ost.png">
     <img src="images/Ost.png" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="img_forest.jpg">
+  <a target="_blank" href="Ost.png">
     <img src="images/Ost.png" alt="Forest" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="img_lights.jpg">
+  <a target="_blank" href="Ost.png">
     <img src="images/Ost.png" alt="Northern Lights" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="img_mountains.jpg">
+  <a target="_blank" href="Ost.png">
     <img src="images/Ost.png" alt="Mountains" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
