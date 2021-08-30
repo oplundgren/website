@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Olof Lundgren"
+  name             : "Olof Lundgren<br/><small>[ˈûːᵝlɔ̌f ˈlɵ̂ŋgɾěːn̪]</small>"
   avatar           : "profile.png"
-  bio              : "[ˈûːᵝlɔ̌f ˈlɵ̂ŋgɾěːn̪]<br/>PhD student in General Linguistics"
+  bio              : "<small>[ˈûːᵝlɔ̌f ˈlɵ̂ŋgɾěːn̪]</small><br/>PhD student in General Linguistics"
   location         : "Lund University"
   employer         :
   pubmed           : 
