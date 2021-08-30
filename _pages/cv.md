@@ -11,49 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.A. in General Linguistics, Lund University, 2015
+* M.A. in General Linguistics, Lund University, 2020
+  * UC Berkeley, Linguistics, 2017–2018 (exchange year)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Research
+======
+* 2018–2021: Research Assistant
+  * Lund University
+  * Duties: Correcting and collecting lexical data/data on gender from 3000+ languages; categorizing data after semantic shift; proof-reading databases on Indo-European and Tocharian.
+  * Supervisor: Gerd Carling
+
+* 2017–2018: Supervised Independent Research
+  * UC Berkeley
+  * Duties included: Working with lexical and phonological data in Zaparoan languages; extracting and glossing 1950s handwritten fieldnote data on Andoa
+  * Supervisor: Lev Michael
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Languages
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Swedish (native)
+* English (C2)
+* French (B1)
+* German (basic)
+* Icelandic (basic)
+* Elfdalian (basic) 
+
+Skills
+======
+ * Python (basic) 
+ * LaTeX (basic) 
+ * R (basic) 
+ * Wiki Markup (basic)
+ * Inkscape (basic) 
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
