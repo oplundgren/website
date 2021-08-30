@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf version is available [here](https://oplundgren.github.io/website/cv_eng.pdf).
+A pdf version is available [here](https://oplundgren.github.io/website/files/cv_eng.pdf).
 
 Education
 ======
