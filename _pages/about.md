@@ -20,7 +20,3 @@ After my MA thesis, I worked as a research assistant at Lund University. In this
 For a long as I can remember, I have also had a strong interest in Nordic languages and dialects as well. I worked on Swedish accents in my BA project, and in several courses in phonetics. I also studied Icelandic between 2011 and 2014, and Elfdalian since 2012. For my PhD project, I hope to incorporate all of my interests into a larger study on the history of the Swedish language in northern Sweden, Dalecarlia, Finland and Estonia.
 
 
-Publications
-======
-
-
