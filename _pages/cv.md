@@ -17,8 +17,8 @@ Education
 
 Publications
 ======
-* Lundgren, Olof. (2020). <i>[A phonological reconstruction of Proto-Omagua—Kokama—Tupinambá](http://lup.lub.lu.se/student-papers/record/9007022)</i>. Unpublished master’s thesis.
-* Lundgren, Olof. (2015). <i>Retroflexion hos talare med tungrots-r i Skåne</i>. Unpublished bachelor’s thesis.
+* Lundgren, Olof. (2020). <i>[A phonological reconstruction of Proto-Omagua—Kokama—Tupinambá](http://lup.lub.lu.se/student-papers/record/9007022)</i>. Unpublished master’s thesis. Lund University.
+* Lundgren, Olof. (2015). <i>Retroflexion hos talare med tungrots-r i Skåne</i>. Unpublished bachelor’s thesis. Lund University.
 
 Research
 ======
@@ -31,12 +31,6 @@ Research
   * UC Berkeley
   * Duties included: Working with lexical and phonological data in Zaparoan languages; extracting and glossing 1950s handwritten fieldnote data on Andoa
   * Supervisor: Lev Michael
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Languages
 ======
